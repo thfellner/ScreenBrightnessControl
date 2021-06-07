@@ -5,7 +5,6 @@ block_cipher = None
 
 
 a = Analysis(['brightnesscontrol.py'],
-             pathex=['C:\\Users\\Thomas\\workspace\\brightnesscontrol'],
              binaries=[],
              datas=[('icon.ico', '.')],
              hiddenimports=[],
