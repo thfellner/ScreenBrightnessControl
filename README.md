@@ -4,6 +4,7 @@ Brightness Control App based on QT and screen_brightness_control. Creates a tray
 I made this because some OS's don't want to natively support this feature unless it is an integrated display (laptop for example)
 
 By right clicking the tray icon you can pull up the slider. By hovering over the arrow a button will show to close the Application
+
 ![alt text](https://raw.githubusercontent.com/thfellner/ScreenBrightnessControl/main/showcase.png "Showcase of the app")
 
 ## Requirements
